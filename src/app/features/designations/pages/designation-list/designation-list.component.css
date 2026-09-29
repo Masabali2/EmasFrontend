@@ -52,17 +52,17 @@
 }
 
 .primary-button {
-  background: #111827;
+  background: #2563eb;
   color: #ffffff;
 }
 
 .primary-button:hover {
-  background: #1f2937;
+  background: #1d4ed8;
 }
 
 .secondary-button {
   background: #f3f4f6;
-  color: #374151;
+  color: #1d4ed8;
 }
 
 .secondary-button:hover {
