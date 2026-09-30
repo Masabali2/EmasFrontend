@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'https://localhost:7131/api'
+  apiUrl: 'https://emas-hshmaucvdydqhudq.australiacentral-01.azurewebsites.net/api'
 };

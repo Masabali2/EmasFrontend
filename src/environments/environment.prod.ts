@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://emasnet.duckdns.org/api'
+ apiUrl: 'https://emas-hshmaucvdydqhudq.australiacentral-01.azurewebsites.net/api'
 };
