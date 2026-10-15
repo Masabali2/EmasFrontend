@@ -14,17 +14,6 @@
   min-width: 0;
 }
 
-.back-button {
-  display: block;
-  margin-bottom: 14px;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  cursor: pointer;
-  font-size: 13px;
-  font-weight: 600;
-}
-
 .eyebrow {
   display: block;
   margin-bottom: 6px;

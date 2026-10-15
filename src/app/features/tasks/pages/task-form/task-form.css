@@ -18,25 +18,6 @@
 .page-header__content {
   min-width: 0;
 }
-
-.back-button {
-  display: inline-flex;
-  align-items: center;
-  margin-bottom: 12px;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  color: #6b7280;
-  font-family: inherit;
-  font-size: 13px;
-  font-weight: 500;
-  cursor: pointer;
-}
-
-.back-button:hover {
-  color: #111827;
-}
-
 .page-title {
   margin: 0;
   color: #111827;
